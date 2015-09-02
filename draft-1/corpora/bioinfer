@@ -1,0 +1,68 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>BioInfer</title>
+
+    <link rel="stylesheet" href="../stylesheets/styles.css">
+    <link rel="stylesheet" href="../stylesheets/local.css">
+    <link rel="stylesheet" href="../stylesheets/hint.css">
+    <link rel="stylesheet" href="../stylesheets/font-awesome.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <nav class="horizontal">
+	<ul>
+	  <li><a href="../index.html">home</a></li>
+	  <li><a href="../sources.html">sources</a></li>
+	  <li><a href="../references.html">references</a></li>
+	</ul>
+      </nav>
+      <header>
+        <h1>BioInfer</h1>
+      </header>
+
+<section>
+  <p>Year: 2007</p>
+</section>
+
+<section>
+  <p>Homepage: <a href="http://mars.cs.utu.fi/BioInfer/">http://mars.cs.utu.fi/BioInfer/</a>
+  </p>
+</section>
+
+<section>
+  <p>License: <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike</a> (CC BY-SA)</li>
+    </ul>
+  </p>
+</section>
+
+<section>
+<p>The BioInfer corpus consists of 1,100 sentences from PubMed abstracts
+annotated for entities, events and syntax.</p>
+
+</section>
+
+
+
+<section>
+  <p>Publications:
+    <ul>
+      <li>Pyysalo, Sampo and Ginter, Filip and Heimonen, Juho and Björne, Jari and Boberg, Jorma and Järvinen, Jouni and Salakoski, Tapio (2007). BioInfer: a corpus for information extraction in the biomedical domain. <i>BMC bioinformatics. </i><a href="http://www.biomedcentral.com/1471-2105/8/50">http://www.biomedcentral.com/1471-2105/8/50</a></li>
+    </ul>
+  </p>
+</section>
+
+
+      <footer>
+        <!-- <p><small class="transparent">&copy; 2015</small></p> -->
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+  </body>
+</html>
